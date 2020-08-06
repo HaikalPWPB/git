@@ -1,0 +1,21 @@
+Resolution in 2020
+Become backend developer
+
+*Frameworks
+ - Laravel in Depth
+ - Node JS
+ - Express JS
+ *Database
+ -RDBMS (MySQL or PostgreSQL)
+  ^ ACID (Atomicity,Consistency,Isolation,Durability)
+  ^ Transactions
+ -Not Only SQL
+  ^ MongoDB
+*API in Depth
+ - Authentication based Token
+ - RESTful API
+ - gRPC (Google Remote Protocol Call) 
+*Caching
+ - Redis
+*Websocket
+*Webpack
